@@ -83,7 +83,7 @@ banner ( ) {
                                                                                                                                                                                                                      8line() {
                                                                                                                                                                                                                                   rm -rf ~/Termux-os
                                                                                                                                                                                                                                   cd
-                                                                                                                                                                                                                                  git clone https://github.com/h4ck3r0/Termux-os
+                                                                                                                                                                                                                                  git clone https://github.com/HajiSab007/Termux-os
                                                                                                                                                                                                                                   cd ~/Termux-os ; bash os.sh
                                                                                                                                                                                                                                   }
     
