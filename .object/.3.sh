@@ -21,4 +21,4 @@ sed -e "s/\PROC/$name/g" .2zshrc > $HOME/.zshrc
 echo  ""
 echo -e '\e[1;96m'
 read -p '  Type Shell Name ❯ ' name
-sed -e "s/\Hajisab/$name/g" .Hajisab.zsh-theme > $HOME/.oh-my-zsh/themes/Hajisab.zsh-theme
+sed -e "s/\Hajisab/$name/g" .hajisab.zsh-theme > $HOME/.oh-my-zsh/themes/Hajisab.zsh-theme
